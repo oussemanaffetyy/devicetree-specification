@@ -10,7 +10,7 @@ in our GitHub repository:
 [Devicetree Specification releases](https://github.com/devicetree-org/devicetree-specification)
 
 ### How often is a new specification released
-
+   
 The target is once a year or when there is a significant change to prompt a
 release.
 
