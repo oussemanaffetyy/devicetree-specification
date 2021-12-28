@@ -1,5 +1,5 @@
 TODO requirements for release v1.0:
-
+   
 Section 2 - The Devicetree
 - Expand on generic names
 - Add interrupts-extended
